@@ -1,0 +1,30 @@
+name = "biokes"
+print(name)
+print('biokes\'s is a boy')
+print('biokes\'s\nis\na\nboy')
+name = input("pls enter your name:")
+print(name,",welcome to Python programming.")
+number1 = input("please enter first number: ")
+number2 = input("please enter another number: ")
+result = number1 + number2
+print(result)
+number1 = int(input("please enter first number: "))
+number2 = int(input("please enter another number: "))
+result = number1 + number2
+print(result)
+number1 = input("please enter first number: ")
+number2 = input("please enter another number: ")
+result = number1 + number2
+print(result)
+number1 = int(input("please enter first number: "))
+number2 = int(input("please enter another number: "))
+result = number1 + number2
+print(result)
+number1 = int(input("please enter first number: "))
+number2 = int(input("please enter another number: "))
+result = float(number1 - number2)
+print(result)
+number1 = input("please enter first number: ")
+number2 = input("please enter another number: ")
+result = float(number1) + float(number2)
+print(result)

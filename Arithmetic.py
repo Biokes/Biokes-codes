@@ -1,0 +1,12 @@
+print('enter 2 numbers')
+
+number1 = int(input())
+number2 = int(input())
+square1 = (number1 * number1)
+square2 = (number2 * number2)
+print(square1, 'is the square of ',number1)
+print(square2, 'is the square of ',number2)
+sum = (square1+square2)
+difference = (square1-square2)
+print('the sum of the numbers squares is ',sum)
+print('the difference of the numbers squares is ',difference)
